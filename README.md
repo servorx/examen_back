@@ -12,8 +12,11 @@ debido al contexto del caso se nos brinda una tabla cuyas tablsa principales y s
 Como podemos evidenciar, se define una cantidad total de 13 tablas, sin tener en cuenta por ahora las tablas auxiliares ya que a pesar de que todas estas entidades se relacionan con libros, pueden llegar a tener atributos unicos, tablas intermedias y relaciones de muchos a muchos que pueden alterar la funcionalidad de la base de datos, a su vez, momentaneamente se creò una tabla intermedia entre cliente y libros que es "compra" para poder definir las caracteristicas de la compra del cliente de libros.
 
 ### fase fisica: 
-En esta fase ya se tratan de definir los datos y algunas tablas intermedias
-![alt text](./fisica.png)
+En esta fase ya se tratan de definir los datos y algunas tablas intermedias.
+
+Aqui ya se pueden los datos que se van a manejar, sus relaciones y algunas tablas auxiliares, falta por definir la parte de  la normalizacion.
+![alt text](image-1.png)
+![fase fisica](./fisica.png)
 
 ## Parte 2: Diagrama Conceptual de Entidad-Relación
 - -  
